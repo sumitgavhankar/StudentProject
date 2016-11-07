@@ -67,7 +67,7 @@ public class Admin {
 						}
 					}
 					System.out.println("\n");
-					System.out.println("--------------");
+					System.out.println("------------------");
 					matchFound = true;
 					break;
 				}
